@@ -88,6 +88,15 @@
               </p>
             </a>
           </li>
+          <li class="nav-item">
+            <a href="/users" class="nav-link">
+              <i class="nav-icon fas fa-th"></i>
+              <p>
+                Users
+                <span class="right badge badge-danger">Crud</span>
+              </p>
+            </a>
+          </li>
         </ul>
       </nav>
       <!-- /.sidebar-menu -->
